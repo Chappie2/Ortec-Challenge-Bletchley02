@@ -1,5 +1,4 @@
-# Ortec Challenge Bletchley02
-The present implementation of the Ortec-Challenge consists of 3 underlyinh documents excluding the README.md document: OrtecChallenge.ipynb, TEMPLATE_1, and TEMPLATE_2. 
+The present implementation of the Ortec-Challenge consists of 3 underlying documents excluding the README.md document: OrtecChallenge.ipynb, TEMPLATE_1, and TEMPLATE_2. 
 
 When running the OrtecChallenge python notebook, the zipfile that contains the templates should be uploaded. Afterwards, the notebook can be runned seemlessly.
 
